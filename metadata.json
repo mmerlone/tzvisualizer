@@ -1,0 +1,5 @@
+{
+  "name": "Timezone Boundary Visualizer",
+  "description": "An interactive React application using D3.js and Tailwind CSS to visualize timezone boundaries from the evansiroky/timezone-boundary-builder dataset, allowing users to explore specific zones and their corresponding GMT offset areas.",
+  "requestFramePermissions": []
+}
